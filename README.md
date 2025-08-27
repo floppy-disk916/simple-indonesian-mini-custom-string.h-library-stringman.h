@@ -1,4 +1,4 @@
-# simple-indonesian-mini-custom-string.h-library-stringman.h
+# Simple-indonesian-mini-custom-string.h-library-stringman.h
 
 *Hello guys from across the internet!*
 
