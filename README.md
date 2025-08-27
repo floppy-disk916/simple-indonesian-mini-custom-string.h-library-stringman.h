@@ -1,0 +1,1 @@
+# simple-indonesian-mini-custom-string.h-library-stringman.h
